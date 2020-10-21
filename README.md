@@ -1,6 +1,5 @@
 # ¡En construcción! 
 Este repositorio será una traducción del curso _Practical Python_ de David Beazley ([https://dabeaz.com](https://dabeaz.com)), [@dabeaz](https://twitter.com/dabeaz)
-
 ***
 # Welcome!
 
